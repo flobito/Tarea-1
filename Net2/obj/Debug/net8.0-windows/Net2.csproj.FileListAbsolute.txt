@@ -1,0 +1,14 @@
+C:\Users\Francisco\Desktop\Net2\bin\Debug\net8.0-windows\Net2.exe
+C:\Users\Francisco\Desktop\Net2\bin\Debug\net8.0-windows\Net2.deps.json
+C:\Users\Francisco\Desktop\Net2\bin\Debug\net8.0-windows\Net2.runtimeconfig.json
+C:\Users\Francisco\Desktop\Net2\bin\Debug\net8.0-windows\Net2.dll
+C:\Users\Francisco\Desktop\Net2\bin\Debug\net8.0-windows\Net2.pdb
+C:\Users\Francisco\Desktop\Net2\obj\Debug\net8.0-windows\Net2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco\Desktop\Net2\obj\Debug\net8.0-windows\Net2.AssemblyInfoInputs.cache
+C:\Users\Francisco\Desktop\Net2\obj\Debug\net8.0-windows\Net2.AssemblyInfo.cs
+C:\Users\Francisco\Desktop\Net2\obj\Debug\net8.0-windows\Net2.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\Net2\obj\Debug\net8.0-windows\Net2.dll
+C:\Users\Francisco\Desktop\Net2\obj\Debug\net8.0-windows\refint\Net2.dll
+C:\Users\Francisco\Desktop\Net2\obj\Debug\net8.0-windows\Net2.pdb
+C:\Users\Francisco\Desktop\Net2\obj\Debug\net8.0-windows\Net2.genruntimeconfig.cache
+C:\Users\Francisco\Desktop\Net2\obj\Debug\net8.0-windows\ref\Net2.dll
