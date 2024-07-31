@@ -12,7 +12,7 @@ namespace Net2
         static private StreamWriter streamw;
         static private StreamReader streamr;
         static private TcpClient client = new TcpClient();
-        static private string nick = "unknown";
+        static private string username = "unknown";
 
         private delegate void DaddItem(String s);
 
@@ -55,7 +55,7 @@ namespace Net2
                     streamw = new StreamWriter(stream);
                     streamr = new StreamReader(stream);
 
-                    streamw.WriteLine(nick);
+                    streamw.WriteLine(username);
                     streamw.Flush();
 
                     t.Start();
